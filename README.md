@@ -5,6 +5,6 @@
 
   # acook2's Website
 
-  Visit **[cook-lab.co.uk](http://cook-lab.co.uk)** 🚀
+  Visit **[acook2.github.io/acook2](https://acook2.github.io/acook2)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
