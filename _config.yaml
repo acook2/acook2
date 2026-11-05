@@ -2,18 +2,17 @@
 title: Cook Lab
 subtitle: at University of York
 description: Host-immune interactions in African trypanosomes
-header: images/background.jpg
-footer: images/background.jpg
+header: images/MaryBruce_Tgambiense_con.jpg
+footer: images/MaryBruce_Tgambiense_con.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@acook2.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: acook2
-  twitter: acook2
-  youtube: acook2
+  email: alex.cook@york.ac.uk
+  orcid: 0000-0003-1283-1541
+  google-scholar: QvSiXfgAAAAJ
+  linkedin: alex-cook-7091318b
+
 
 ### jekyll settings
 
